@@ -23,4 +23,4 @@ Take your advertising strategy to the next level with this powerful, data-driven
 7. In line 2 of the script, set the URL of your copy of the Paretolytics document.
 8. Run the script and wait for the execution to complete and for the Paretolytics file to be populated.
 9. Open the copy of the "Supplementary feeds" spreadsheet and paste the URL link of the Paretolytics document into cell A1.
-Note: In the "Pivot30Days" spreadsheet, a filter has been set to hide rows with fewer than 10 impressions.
+> **_NOTE:_** In the "Pivot30Days" sheet of "Paretolytics", a filter has been set to hide rows with fewer than 10 impressions.
