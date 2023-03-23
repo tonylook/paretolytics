@@ -15,12 +15,16 @@ Take your advertising strategy to the next level with this powerful, data-driven
 
 ### ⚙️ Instructions:
 1. Open the "Paretolytics" spreadsheet available at the following link: https://docs.google.com/spreadsheets/d/1gQndySzfhaSXJVzClAbYOJloV_Ebsd1P_7cijIv6ItQ
-2. Make a copy of the "Paretolytics" spreadsheet.
+2. Make a copy in your drive of the "Paretolytics" spreadsheet. (File > Make a Copy)
 3. Open the "Supplementary feed" spreadsheet available at the following link: https://docs.google.com/spreadsheets/d/16Nrl0pJTMv06rgkWZHW0g90fcu4a0cVkgPOnIYGHLXI
 4. Make a copy of the "Supplementary feed" spreadsheet.
-5. Set the file access so that anyone with the link can edit it. This is necessary for the script that will be used to populate the file.
+5. On both set the file access so that anyone with the link can edit it. This is necessary for the script that will be used to populate the file.
 6. Copy the script and paste it into your Google Ads environment.
 7. In line 2 of the script, set the URL of your copy of the Paretolytics document.
 8. Run the script and wait for the execution to complete and for the Paretolytics file to be populated.
 9. Open the copy of the "Supplementary feeds" spreadsheet and paste the URL link of the Paretolytics document into cell A1.
 > **_NOTE:_** In the "Pivot30Days" sheet of "Paretolytics", a filter has been set to hide rows with fewer than 10 impressions.
+
+> :information_source: :point_right: **Need help or custom modifications?** :point_left:  
+> If you require assistance or need custom modifications, please don't hesitate to contact us at [info@byte-code.com](mailto:info@byte-code.it) :email: :sos:
+
