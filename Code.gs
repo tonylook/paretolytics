@@ -1,5 +1,5 @@
 var settings = {
-  'spreadsheet': 'Your Paretolytics Spreadsheet url', // URL of the spreadsheet to populate
+  'spreadsheet': 'https://docs.google.com/spreadsheets/d/your_paretolytics', // URL of the spreadsheet to populate
   'metrics': ['campaign.name', 'segments.product_title', 'metrics.impressions', 'metrics.clicks', 'metrics.ctr', 'metrics.cost_micros', 'metrics.average_cpc', 'metrics.conversions', 'metrics.cost_per_conversion', 'metrics.conversions_value'], // Metrics to extract
 };
 
