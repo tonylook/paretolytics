@@ -26,5 +26,5 @@ Take your advertising strategy to the next level with this powerful, data-driven
 > **_NOTE:_** In the "Pivot30Days" sheet of "Paretolytics", a filter has been set to hide rows with fewer than 10 impressions.
 
 > :information_source: :point_right: **Need help or custom modifications?** :point_left:  
-> If you require assistance or need custom modifications, please don't hesitate to contact us at [info@byte-code.com](mailto:info@byte-code.it) :email: :sos:
+> If you require assistance or need custom modifications, please don't hesitate to contact us at [info@byte-code.it](mailto:info@byte-code.it) :email: :sos:
 
